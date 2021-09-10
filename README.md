@@ -142,3 +142,11 @@ DevOps Ninja
 ## Aula 39 - Kubernetes Autoscaling
 
 
+Google-
+
+design 001
+Login: rodrigo_duque
+Senha: Bwt570,k,|\-,t1
+
+
+
