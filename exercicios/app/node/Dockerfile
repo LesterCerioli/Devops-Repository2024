@@ -4,7 +4,7 @@
 FROM daveamit/node-alpine-grpc
 
 # Autor/Mantenedor
-MAINTAINER Jonathan Baraldi
+MAINTAINER Lester Cerioli
 
 # Prover camada de cached para os módulos do Node
 RUN cd /tmp && npm install

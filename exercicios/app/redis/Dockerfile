@@ -2,7 +2,7 @@
 FROM redis
 
 	# Autor/Mantenedor
-MAINTAINER Jonathan Baraldi
+MAINTAINER Lester Cerioli
 
 	# Atualizar o repositório e instalar o server do Redis
 # RUN apt-get update && apt-get install -y redis-server
