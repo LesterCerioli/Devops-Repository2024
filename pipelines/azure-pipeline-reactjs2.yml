@@ -1,0 +1,27 @@
+trigger:
+  branches:
+    include:
+      - main # Set your desired branch here
+
+pool:
+  name: "DS12" # Set your desired VM image here
+
+steps:
+  - task: NodeTool@0
+    inputs:
+      versionSpec: "14.x"
+    displayName: "Install Node.js"
+
+  - script: |
+
+      npm install
+    displayName: "Install Dependencies"
+
+  - script: |
+      npm build
+    displayName: "Build"
+
+  - script: |
+      cd test
+      npm test
+    displayName: "Run npm test"
