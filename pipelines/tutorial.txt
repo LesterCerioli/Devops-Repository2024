@@ -1,0 +1,1 @@
+####  https://www.azure365pro.com/how-to-deploy-a-react-app-to-azure-using-devops-pipelines/#:~:text=How%20to%20Deploy%20a%20React%20app%20to%20Azure,Creating%20the%20release%20pipeline%20and%20Deploying%20to%20Azure
