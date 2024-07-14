@@ -6,3 +6,4 @@
 {"date": "2024-07-14", "time": "06:20:03", "status": "A varredura r\u00e1pida foi conclu\u00edda com sucesso.", "duration": 40.3306565284729}
 {"date": "2024-07-14", "time": "06:24:09", "status": "Starting quick scan via command prompt...", "duration": 0}
 {"date": "2024-07-14", "time": "06:24:48", "status": "Quick scan completed successfully.", "duration": 38.9802188873291}
+{"date": "2024-07-14", "time": "06:46:40", "status": "Starting full virus scan via command prompt...", "duration": 0}
