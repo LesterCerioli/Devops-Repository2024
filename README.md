@@ -1,3 +1,81 @@
+
+# Automatic Software Installation Scripts with Windows PowerShell
+
+This repository contains a set of PowerShell scripts designed to automate the installation of various software applications and tools on Windows systems. The scripts handle downloading, installing, and configuring popular software, including development tools, web browsers, and utilities.
+
+## Overview
+
+These PowerShell scripts streamline the process of setting up a development environment or preparing a system with essential software. The scripts are designed to run on Windows and require administrative privileges to execute.
+
+## Contents
+
+1. [General Instructions](#general-instructions)
+2. [Scripts Overview](#scripts-overview)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+## General Instructions
+
+Before running any of the scripts, ensure you have the necessary administrative privileges on your Windows system. Some scripts may require restarting the computer to apply changes.
+
+## Scripts Overview
+
+### 1. Install Docker Desktop
+
+- **Description**: Installs Docker Desktop on Windows and configures necessary features.
+- **Features**:
+  - Enables Windows Subsystem for Linux (WSL)
+  - Enables Virtual Machine Platform
+  - Enables Hyper-V
+  - Downloads and installs Docker Desktop
+
+### 2. Install Ruby and Rails
+
+- **Description**: Installs Ruby and Ruby on Rails, including configuring the environment and required libraries.
+- **Features**:
+  - Downloads and installs Ruby
+  - Configures environment variables
+  - Installs Ruby on Rails
+  - Handles dependencies and configuration
+
+### 3. Install Web Browsers
+
+- **Description**: Downloads and installs popular web browsers.
+- **Features**:
+  - Installs Google Chrome
+  - Installs Mozilla Firefox
+  - Installs Opera
+
+### 4. Install Development Tools
+
+- **Description**: Installs various development tools and utilities.
+- **Features**:
+  - Installs Visual Studio Code
+  - Installs Git Bash
+  - Installs Node.js
+
+## Usage
+
+1. **Download the Scripts**: Clone or download the repository to your local machine.
+
+2. **Run the Scripts**:
+   - Open PowerShell with administrative privileges.
+   - Navigate to the directory where the scripts are located.
+   - Execute the desired script by typing `.\ScriptName.ps1`.
+
+3. **Follow the Prompts**: Some scripts may prompt you for additional actions, such as restarting the computer. Follow the on-screen instructions to complete the installation.
+
+### Example
+
+To install Docker Desktop, run the following command in PowerShell:
+
+```powershell
+.\Install-DockerDesktop.ps1
+
+
+
+
 # Lester Cerioli
 
 Welcome to my professional profile! I'm Lester Cerioli, a seasoned software developer and IT consultant with extensive experience in various technologies and development practices. Below you’ll find information about my professional journey, as well as links to my GitHub and LinkedIn profiles.
