@@ -24,7 +24,7 @@ With a strong background in software development and IT consultancy, I specializ
 
 ## Connect with Me
 
-- **GitHub**: [Lester Cerioli on GitHub](https://github.com/lester-cerioli) – Explore my repositories, contributions, and projects.
-- **LinkedIn**: [Lester Cerioli on LinkedIn](https://www.linkedin.com/in/lester-cerioli) – Connect with me for professional networking and updates.
+- **GitHub**: [Lester Cerioli on GitHub](https://github.com/LesterCerioli) – Explore my repositories, contributions, and projects.
+- **LinkedIn**: [Lester Cerioli on LinkedIn](https://www.linkedin.com/in/lester-cerioli-83300a81/) – Connect with me for professional networking and updates.
 
 Thank you for visiting my profile. Feel free to reach out if you have any questions or opportunities for collaboration!
